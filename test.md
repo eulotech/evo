@@ -43,13 +43,13 @@ COME SI ACCEDE AL MODELLO 730 PRECOMPILATO
 La dichiarazione precompilata verrà messa a disposizione del contribuente a partire dal 30 aprile di ogni anno in una apposita sezione del sito internet dell’agenzia delle entrate a cui si potrà accedere:
 • direttamente, mediante i servizi telematici dell’Agenzia delle entrate (a tal fine è necessario essere in possesso di un codice PIN che può essere richiesto: on line, accedendo al sito dell’agenzia, o in ufficio, presentando un documento d’identità;
 • indirettamente, conferendo apposita delega, tramite il proprio sostituto d’imposta che presta assistenza fiscale ovvero tramite un CAF, o un iscritto nell’albo dei consulenti del lavoro o in quello dei dottori commercialisti e degli esperti contabili abilitati allo svolgimento dell’assistenza fiscale.
- ###
+###
 Accesso diretto
 Come detto il contribuente, per poter accedere direttamente alla consultazione del proprio modello 730 precompilato deve essere in possesso del codice PIN, ottenibile:
 − online, accedendo al sito dell’Agenzia www.agenziaentrate.gov.it e inserendo alcuni dati personali;
 − in ufficio, presentando un documento di identità.
 Dopo aver ottenuto, utilizzando una delle metodologie indicate, le prime 4 cifre del codice PIN, entro 15 giorni dalla richiesta il contribuente riceverà al proprio domicilio fiscale una lettera contenente gli elementi per ricavare le ultime 6 cifre del Pin e la password che servirà per il primo accesso.
- ###
+###
 È possibile accedere al 730 precompilato anche utilizzando:
 − un’identità SPID – Sistema pubblico d’identità digitale;
 − CIE - Carta di identità elettronica;
@@ -70,10 +70,6 @@ Una volta ottenuto l’accesso e visualizzata la dichiarazione precompilata il c
 • accettarla e presentarla;
 • può presentare il modello 730 precompilato apportandovi modifiche o integrazioni;
 • può decidere di presentare la dichiarazione con le modalità ordinarie.
-Attenzione tuttavia che l’accettazione o meno del modello precompilato con o senza modifiche comporta importanti conseguenze:
-• se il modello 730 precompilato viene accettato senza effettuare modifiche e presentato direttamente o tramite il sostituto d’imposta non verranno effettuati controlli documentali su oneri detraibili e deducibili, quali interessi passivi, premi assicurativi e contributi previdenziali che sono stati comunicati dai soggetti terzi, mentre i controlli documentati potranno riguardare i dati comunicati dal sostituto d’imposta mediante la Certificazione Unica, fatta salva la possibilità per l’Agenzia di richiedere la documentazione necessaria per la verifica delle condizioni soggettive che danno diritto alle detrazioni o deduzioni; qualora il 730 precompilato sia presentato tramite CAF o professionista abilitato i controlli documentali saranno effettuati nei confronti dello stesso CAF o professionista abilitato anche sugli oneri comunicati dai soggetti terzi quali i soggetti che erogano mutui fondiari ed agrari, imprese di assicurazione e dagli enti previdenziali. Si precisa che la dichiarazione precompilata si considera accettata anche se il contribuente effettua delle modifiche che non incidono sul calcolo dell’imponibile e dell’imposta, come ad esempio nel caso di variazione dei dati di residenza anagrafica nell’ambito dello stesso Comune o se vengono indicati o modificati i dati del soggetto che effettua il conguaglio oppure se viene indicato o modificato il codice fiscale del coniuge non fiscalmente a carico;
-• nel caso il cui nel modello 730 precompilato vengano apportate delle modifiche o integrazioni (ad esempio per aggiungere redditi o oneri detraibili o deducibili non presenti nella dichiarazione precompilata) ed il modello venga presentato direttamente o tramite il sostituto d’imposta la dichiarazione rimane sottoposta al controllo formale in capo al contribuente; se invece la presentazione avviene tramite CAF o professionista abilitato allora i controlli documentali saranno effettuati nei confronti di quest’ultimi anche sugli oneri comunicati dai soggetti terzi quali i soggetti erogano mutui fondiari ed agrari, imprese di assicurazione e dagli enti previdenziali.
-Come detto, resta ferma la possibilità di presentare la dichiarazione dei redditi autonomamente compilata con le modalità ordinarie, quindi non accettando il modello 730 precompilato e presentando il modello 730 ordinario, secondo i consueti canali (sostituto d’imposta, CAF o professionista abilitato).
 
 ### Il modello 730 precompilato
 Il modello 730 precompilato dunque può essere presentato:
