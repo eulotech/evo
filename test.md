@@ -4,13 +4,6 @@ Come previsto infatti dall’articolo 1 comma 1 del citato D.Lgs. 175/2014 l’A
 Il modello 730 precompilato viene reso disponibile ai lavoratori dipendenti e pensionati (articolo 49 del Tuir) e ai titolari di redditi assimilati a quelli di lavoro dipendente ai sensi dell’articolo 50 comma 1 lettera a), c), c-bis, d) g), i) e l) del Tuir, con esclusione delle indennità percepite dai membri del parlamento europeo quali:
 • compensi percepiti dai soci lavoratori delle cooperative;
 • borse di studio e assegni assimilati;
-• compensi percepiti per uffici di amministratore o sindaco/revisore, per la collaborazione a giornali e riviste, per rapporti di collaborazione privi di subordinazione;
-• remunerazione di sacerdoti;
-• indennità percepite per cariche elettive;
-• altri assegni periodici;
-• compensi per lavori socialmente utili.
-La dichiarazione precompilata non viene predisposta se il contribuente, con riferimento al periodo d’imposta precedente, ha presentato dichiarazioni correttive nei termini o integrative, per le quali al momento dell’elaborazione della dichiarazione precompilata è ancora in corso l’attività di liquidazione automatizzata effettuata ai sensi dell’articolo 36-bis del D.P.R. 600/1973.
-Come precisato nelle istruzioni ministeriali, le principali fonti per precompilare i quadri del modello 730 sono elencate nel seguente prospetto:
 
 ###
 Al fine di consentire la predisposizione della dichiarazione precompilata l’Agenzia delle entrate potrà utilizzare le seguenti informazioni:
@@ -82,7 +75,7 @@ Attenzione tuttavia che l’accettazione o meno del modello precompilato con o s
 • nel caso il cui nel modello 730 precompilato vengano apportate delle modifiche o integrazioni (ad esempio per aggiungere redditi o oneri detraibili o deducibili non presenti nella dichiarazione precompilata) ed il modello venga presentato direttamente o tramite il sostituto d’imposta la dichiarazione rimane sottoposta al controllo formale in capo al contribuente; se invece la presentazione avviene tramite CAF o professionista abilitato allora i controlli documentali saranno effettuati nei confronti di quest’ultimi anche sugli oneri comunicati dai soggetti terzi quali i soggetti erogano mutui fondiari ed agrari, imprese di assicurazione e dagli enti previdenziali.
 Come detto, resta ferma la possibilità di presentare la dichiarazione dei redditi autonomamente compilata con le modalità ordinarie, quindi non accettando il modello 730 precompilato e presentando il modello 730 ordinario, secondo i consueti canali (sostituto d’imposta, CAF o professionista abilitato).
 
-###
+### Il modello 730 precompilato
 Il modello 730 precompilato dunque può essere presentato:
 • direttamente dal contribuente;
 • tramite sostituto d’imposta, CAF o professionista abilitato.
@@ -93,11 +86,6 @@ Se il contribuente intende presentare il 730 precompilato direttamente tramite i
 • indicare i dati del sostituto d’imposta che effettuerà il conguaglio;
 • compilare la scheda per la scelta della destinazione dell’8, del 5 e del 2 per mille dell’Irpef, anche se non esprime alcuna scelta;
 • verificare con attenzione che i dati presenti nel 730 precompilato siano corretti e completi.
-Se il 730 precompilato non richiede nessuna correzione o integrazione, il contribuente lo può accettare senza modifiche e presentarlo direttamente tramite il sito dell’agenzia delle entrate; a seguito della trasmissione della dichiarazione, nella stessa sezione del sito internet viene messa a disposizione del contribuente la ricevuta di avvenuta presentazione.
-In materia di controlli La legge di Stabilità 2016 ha previsto l’abrogazione dell’articolo 5, comma 1, la lettera b) del D.Lgs. 175/2014 con effetto per le dichiarazioni dei redditi presentate a decorrere dall’anno 2016, relative al periodo di imposta 2015. Tuttavia, come precisato anche nelle istruzioni alla compilazione del modello 730/2020 se il 730 precompilato viene presentato senza effettuare modifiche direttamente tramite il sito internet dell’Agenzia oppure al sostituto d’imposta non saranno effettuati i controlli documentali sugli oneri detraibili e deducibili che sono stati comunicati all’Agenzia delle entrate.
-Tuttavia, i controlli documentali possono invece riguardare:
-− i dati comunicati dai sostituti d’imposta mediante la Certificazione Unica;
-− la documentazione necessaria per verificare la sussistenza dei requisiti soggettivi per fruire di queste agevolazioni.
 
 ### PRESENTAZIONE DIRETTA CON MODIFICHE
 
@@ -106,14 +94,6 @@ In questi casi verranno elaborati e messi a disposizione del contribuente:
 • un nuovo modello 730;
 • un nuovo modello 730-3 con i risultati della liquidazione effettuata in seguito alle modifiche operate dal contribuente.
 Una volta modificato, il modello 730 precompilato può essere presentato direttamente tramite il sito internet dell’Agenzia delle entrate. A seguito della trasmissione della dichiarazione, nella stessa sezione del sito internet viene messa a disposizione del contribuente la ricevuta di avvenuta presentazione.
-Se dopo aver effettuato l’invio del 730 precompilato il contribuente si accorge di aver commesso degli errori, le rettifiche devono essere effettuate con le modalità descritte nel paragrafo “Rettifica del modello 730”.
-Come detto, nel caso il cui nel modello 730 precompilato vengano apportate delle modifiche o integrazioni (ad esempio per aggiungere redditi o oneri detraibili o deducibili non presenti nella dichiarazione precompilata) ed il modello venga presentato direttamente la dichiarazione rimane sottoposta al controllo formale in capo al contribuente. Quindi nel caso in cui dal controllo formale emergano irregolarità, il contribuente sarà tenuto alla corresponsione delle maggiori imposte, delle sanzioni e degli interessi.
-La Legge di Stabilità 2016 ha introdotto il nuovo comma 3-bis all’articolo 5 del D.Lgs. 175/2014 che prevede che nel caso di presentazione della dichiarazione:
-− diretta;
-− tramite il sostituto d’imposta che presta l’assistenza fiscale,
-con modifiche rispetto alla dichiarazione precompilata che incidono sulla determinazione del reddito o dell’imposta e che presentano elementi di incoerenza rispetto ai criteri pubblicati con provvedimento del direttore dell’Agenzia delle entrate ovvero determinano un rimborso di importo superiore a 4.000 euro,
-l’Agenzia delle entrate può effettuare controlli preventivi, in via automatizzata o mediante verifica della documentazione giustificativa, entro quattro mesi dal termine previsto per la trasmissione della dichiarazione, ovvero dalla data della trasmissione, se questa è successiva a detto termine.
- Il rimborso che risulta spettante al termine delle operazioni di controllo preventivo è erogato dall’Agenzia delle entrate non oltre il sesto mese successivo al termine previsto per la trasmissione della dichiarazione, ovvero dalla data della trasmissione, se questa è successiva a detto termine.
 
 ### PRESENTAZIONE AL SOSTITUTO D’IMPOSTA
 
