@@ -1,3 +1,4 @@
+####
 Aspetti generali
 Il Decreto semplificazioni, D.Lgs. 175/2014, ha introdotto, negli articoli da 1 a 8, la disciplina relativa al nuovo modello 730 precompilato.
 Come previsto infatti dall’articolo 1 comma 1 del citato D.Lgs. 175/2014 l’Agenzia delle entrate, utilizzando le informazioni disponibili in Anagrafe tributaria, i dati trasmessi da parte di soggetti terzi e i dati contenuti nelle certificazioni di cui all’articolo 4, comma 6-ter del D.P.R. 322/1998, rende disponibile in via telematica, entro il 15 aprile di ciascun anno ai soggetti titolari di redditi di lavoro dipendente e assimilati la dichiarazione precompilata relativa ai redditi prodotti nell’anno precedente, dichiarazione che potrà essere accettata o modificata.
